@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import verbList from './verbs.json';
-import prepVerbList from './prepVerbs.json'; // <-- save your big JSON with preposition verbs
+import prepVerbList from './verbs2.json'; // <-- save your big JSON with preposition verbs
 import './App.css';
 
 function getRandomVerbs(allVerbs, count) {
