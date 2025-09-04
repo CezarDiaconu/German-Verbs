@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/German-Verbs/static/css/main.e697ac69.css",
-    "main.js": "/German-Verbs/static/js/main.d0063ee8.js",
+    "main.js": "/German-Verbs/static/js/main.c5ba8096.js",
     "index.html": "/German-Verbs/index.html",
     "main.e697ac69.css.map": "/German-Verbs/static/css/main.e697ac69.css.map",
-    "main.d0063ee8.js.map": "/German-Verbs/static/js/main.d0063ee8.js.map"
+    "main.c5ba8096.js.map": "/German-Verbs/static/js/main.c5ba8096.js.map"
   },
   "entrypoints": [
     "static/css/main.e697ac69.css",
-    "static/js/main.d0063ee8.js"
+    "static/js/main.c5ba8096.js"
   ]
 }
